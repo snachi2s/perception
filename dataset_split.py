@@ -82,3 +82,4 @@ if __name__ == '__main__':
 
 '''
 usage example: python dataset_split.py <image_path> <annotation_path> --dataset_split 0.7 0.2 0.1 --output_folder <output_dir_folder or path>
+'''
