@@ -13,14 +13,14 @@
       <div align="center">
         <img src="image.png" alt="Input Image" width="400"/>
         <br>
-        <span style="font-size: 20px;">**Input Image**</span>
+        <span style="font-size: 20px;"><strong>Input Image</strong></span>
       </div>
     </td>
     <td>
       <div align="center">
         <img src="prediction.png" alt="Prediction Image" width="400"/>
         <br>
-        <span style="font-size: 20px;">**Prediction Image**</span>
+        <span style="font-size: 20px;"><strong>Prediction Image</strong></span>
       </div>
     </td>
   </tr>
