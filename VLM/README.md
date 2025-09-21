@@ -4,3 +4,24 @@
 
 1. HuggingFace 
 2. SAM2 installation (from official repository)
+
+ # Inference Results
+
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="image.png" alt="Input Image" width="400"/>
+        <br>
+        <span style="font-size: 20px;">**Input Image**</span>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="prediction.png" alt="Prediction Image" width="400"/>
+        <br>
+        <span style="font-size: 20px;">**Prediction Image**</span>
+      </div>
+    </td>
+  </tr>
+</table>
